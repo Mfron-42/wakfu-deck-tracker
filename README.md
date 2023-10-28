@@ -1,0 +1,1 @@
+# wakfu-deck-tracker
